@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yogeshpatelp3010@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+# Contributions
+<img src ='https://github-profile-trophy.vercel.app/?username=yogeshpatel30&theme=onedark'align='center'/>
