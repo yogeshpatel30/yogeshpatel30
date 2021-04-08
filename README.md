@@ -5,7 +5,7 @@
     <td><img src="https://profile-counter.glitch.me/yogeshpatel30/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
-<img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Vergangenheit,%20Gegenwart,%20Zukunft&fontSize=100&animation=blinking&fontColor=00FF00'/>
+<img src = 'https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=footer&text=Vergangenheit,%10Gegenwart,%10Zukunft&fontSize=100&animation=blinking&fontColor=00FF00'/>
 
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
