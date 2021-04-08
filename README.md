@@ -14,7 +14,8 @@
 
 # Contributions
 <img src ='https://github-profile-trophy.vercel.app/?username=yogeshpatel30&theme=onedark' align='center'/>
-
+<img src ='https://github-readme-streak-stats.herokuapp.com/?user=yogeshpatel30&theme=chartreuse-dark' align='center'/>
+<img src ='https://github-readme-stats.vercel.app/api?username=yogeshpatel30&show_icons=true&theme=chartreuse-dark&count_private=true&line_height=40%27' align='center'/>
 
 ### Hi there 👋
 
