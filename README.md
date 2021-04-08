@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 
 # Contributions
-<img src ='https://github-profile-trophy.vercel.app/?username=yogeshpatel30&theme=onedark'align='center'/>
+<img src ='https://github-profile-trophy.vercel.app/?username=yogeshpatel30&theme=onedark' align='center'/>
