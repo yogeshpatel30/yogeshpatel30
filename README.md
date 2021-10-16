@@ -9,7 +9,9 @@
 # Hallo!! ich bin Yogesh Patel
 
 # 💬 Ask me about:
-- [x] Cyber Security                                      
+- [x] Cyber Security  
+- [x] Programming 
+                                     
 
 
 # Contributions
